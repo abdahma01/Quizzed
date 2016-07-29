@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizzed</string>
+    <string name="qn1">How many cups of coffee are in the logo of Central Perk?</string>
+    <string name="q1op1">1</string>
+    <string name="q1op2">2</string>
+    <string name="q1op3">3</string>
+    <string name="q1op4">4</string>
+
+    <string name="qn2">Who all does Ross marry?</string>
+    <string name="q2op1">Emily</string>
+    <string name="q2op2">Carol</string>
+    <string name="q2op3">Rachel</string>
+    <string name="q2op4">Elizabeth</string>
+
+    <string name="qn3">What is the name of Rachel\'s child?</string>
+
+
+    <string name="qn4">Who Does Phoebe Marry?</string>
+    <string name="q4op1">Chandler</string>
+    <string name="q4op2">David</string>
+    <string name="q4op3">Mike</string>
+    <string name="q4op4">Bob</string>
+
+    <string name="qn5">What is Phoebe\'s sister\'s name?</string>
+    <string name="q5op1">Ursula</string>
+    <string name="q5op2">Monica</string>
+    <string name="q5op3">Gill</string>
+    <string name="q5op4">Amy</string>
+
+</resources>
